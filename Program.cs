@@ -106,11 +106,6 @@ class Program
     {
         Console.WriteLine("=== Bob Bot is running! ===");
         Console.WriteLine("(Press Ctrl+C or close the tab to stop)");
-        Console.WriteLine("Time periods for greetings:");
-        Console.WriteLine("Morning: 5 AM - 12 PM");
-        Console.WriteLine("Afternoon: 12 PM - 6 PM");
-        Console.WriteLine("Night: 6 PM - 5 AM");
-        Console.WriteLine("Each greeting can appear once per 24h");
         Console.WriteLine("================================\n");
 
         var bob = new BobBot();
