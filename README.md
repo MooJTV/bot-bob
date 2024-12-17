@@ -11,10 +11,11 @@ A simple bot that greets you based on the time of day and occasionally shares it
 ## How to Run
 
 1. Click the green "Code" button above
-2. Select "Open with Codespaces"
-3. Wait for the environment to load
-4. In the terminal, run:
+2. Select the "Codespaces" tab
+3. Click "Create codespace on main"
+4. Wait for the environment to load
+5. In the terminal, run:
    ```bash
    dotnet run
    ```
-5. Enjoy Bob Bot's wisdom!
+6. Enjoy Bob Bot's wisdom!
